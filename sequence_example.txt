@@ -1,0 +1,34 @@
+{objet}
+{bonjour}
+
+{qui}
+
+{pourquoi}
+
+J'aimerais me présenter en 20 minutes et comprendre {comprendre}. Vous êtes disponible {creneaux} ?
+
+Yan Casse
+---
+{bonjour}
+
+Un exemple concret de ce dont je parle : {preuve} J'aimerais vous montrer si la même approche a du sens pour {cabinet}, même si c'est un sujet à reprendre plus tard. Vous êtes disponible {creneaux} ?
+
+Yan
+---
+{bonjour}
+
+Qu'en pensez-vous ?
+
+Yan
+---
+{bonjour}
+
+Je planifie mes deux prochaines semaines et j'aimerais clore le sujet dans un sens ou dans l'autre. Est-ce que ça vaut la peine d'en reparler plus tard ? Le mois prochain me va aussi.
+
+Yan
+---
+{bonjour}
+
+Je pars du principe que ce n'est pas une priorité pour le moment. Je reviendrai vers vous au prochain trimestre.
+
+Yan

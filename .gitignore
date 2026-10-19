@@ -1,0 +1,8 @@
+.jeton_claude
+.mdp_*
+*.env
+*.csv
+logs/
+rapports/
+dossiers/
+__pycache__/
